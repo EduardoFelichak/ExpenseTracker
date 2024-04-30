@@ -16,6 +16,9 @@
 # Mono auto generated files
 mono_crash.*
 
+#archive containing License Key
+program.cs
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
