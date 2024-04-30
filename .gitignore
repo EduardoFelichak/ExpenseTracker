@@ -17,7 +17,7 @@
 mono_crash.*
 
 #archive containing License Key
-program.cs
+Program.cs
 
 # Build results
 [Dd]ebug/
