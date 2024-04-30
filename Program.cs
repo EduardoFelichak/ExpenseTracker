@@ -10,7 +10,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
 
 //Register Syncfusion license
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2UFhhQlJBfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hTX5XdEJjUX9fcHNcRmNf");
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("HERE GOES YOUR LICENSE KEY");
 
 var app = builder.Build();
 
